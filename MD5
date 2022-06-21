@@ -1,10 +1,10 @@
-6b1db79f8dcef8d36e11b90787e43190 *DESCRIPTION
-b143c1b2ca2ba41d11ce601d01878190 *NAMESPACE
+65db8c43675953009e781bb7a54d9637 *DESCRIPTION
+4ab2fd8ca66b3e7cc5ebe3b99ec0616e *NAMESPACE
 d0855e7d386bec86585a6ae804357286 *R/CalculateHUM_Ex.R
 2414e9542dc0c8a6a0d5ef2d7003e07e *R/CalculateHUM_ROC.R
 a0d7f55e02c44977cec786e8d5c7ce96 *R/CalculateHUM_seq.R
 7d4407ed4e2da3b227e5dcf6dd8dec0f *R/ROC_Plot.R
-08625c949694dd97572e76ae0b6d06d5 *R/RcppExports.R
+47bcfd7eebd79b6ab1557283b7e1075c *R/RcppExports.R
 2001245beb135cbf9668e4e17fd9630f *data/dataset.txt.gz
 38ef87457ce82aebc1f2d5c2fe8cc869 *data/sim.txt.gz
 7fc75b45fcd0751a95f445ab1bec11a0 *man/CalcGene.Rd
@@ -15,9 +15,9 @@ dd52fb731049568005f61084ff7e5d50 *man/CalculateHUM_Plot.Rd
 e806c4aef604e822d32317277c1678b2 *man/CalculateHUM_ROC.Rd
 f599e93232985f88845d32ccd9b4cbb8 *man/CalculateHUM_seq.Rd
 34e865a9eb2cd52518de59d883cadae3 *man/HUM-package.Rd
-d4a9c15b3c161d83f07ee92b33d7182b *man/dataset.Rd
-9f69cf164624580bb6d5922a8869d4a1 *man/sim.Rd
+8ec063893320fcf88066df3bc1c4c3a1 *man/dataset.Rd
+3da65869308cbf2b2f33a866ac7e6c3a *man/sim.Rd
 0106b1a5abe7ae46b302e6381ad65114 *src/HUMseq.cpp
 b3f86c20b81b51f5162874977d38784d *src/Makevars
 73505498722ad4b07b0ddb3067e92523 *src/Makevars.win
-4781249ce058f90dd58f4c331c8dc88c *src/RcppExports.cpp
+04db69134503c85c0740f22e047e48a5 *src/RcppExports.cpp

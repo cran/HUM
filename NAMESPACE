@@ -1,5 +1,7 @@
 useDynLib(HUM)
 
+importFrom("graphics", "lines", "persp", "points", "polygon", "text")
+     importFrom("utils", "combn")
 import(Rcpp)
 import(gtools)
 import(rgl)

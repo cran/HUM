@@ -8,7 +8,7 @@
 \description{
   This data file consists of six simulated predictors or variables with three class categories. For each class category the values are independently generated from the normal distribution with the mean µ1, µ2 and µ3 and the variances held at unity. The means are varied such that the problems range from near-separable problems, to near-random.
 }
-\usage{dataset}
+\usage{data(dataset)}
 
 \format{A data.frame containing 300 observations of six variables.}
 
